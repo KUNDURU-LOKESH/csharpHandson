@@ -1,0 +1,5 @@
+productId:1
+categoryType:sales
+categoryType:greaser
+quantity:saleskg
+price:500Rs

@@ -1,0 +1,5 @@
+userid:501
+firstName:lokesh
+lastname:kunduru
+your email is:abc@gmail.com
+your phone number:9866252186

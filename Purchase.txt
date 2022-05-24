@@ -1,0 +1,4 @@
+salesId:999
+productId:101
+price:200Rs
+salesdate:15-10-2022
